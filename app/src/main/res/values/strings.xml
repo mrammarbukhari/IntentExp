@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IntentExp</string>
+    <string name="btnExplicittxt">Start Explicit</string>
+    <string name="btnImplicittxt">Start Implicit</string>
+    <string name="txtDialer">Dailer Activity</string>
+    <string name="DialogBoxOK">OK</string>
+    <string name="btnSharetxt">Share</string>
+    <string name="btnSearch">Search</string>
+    <string name="btnLatLong">Show on Google Maps</string>
+
+
+</resources>
